@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TrustedKindleReviews</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-01-05T13:32:53.442Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Tom</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用GDB进行简单的C语言程序调试</title>
+    <link href="http://yoursite.com/2018/01/05/%E4%BD%BF%E7%94%A8GDB%E8%BF%9B%E8%A1%8C%E7%AE%80%E5%8D%95%E7%9A%84C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%B0%83%E8%AF%95/"/>
+    <id>http://yoursite.com/2018/01/05/使用GDB进行简单的C语言程序调试/</id>
+    <published>2018-01-05T13:31:11.000Z</published>
+    <updated>2018-01-05T13:32:53.442Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;事实证明有时候无聊的东西反而变成了一篇博文，谁叫恶趣味的C语言作业非要求用word写实验报告，本猹宁可先写成Markdown再复制粘贴过去。&lt;/p&gt;
+&lt;p&gt;首先按照惯例应该介绍下GDB，搭配GCC使用的调试器，也是众多使用GCC为编译器的IDE的默认调试器（大概？），虽然无
+        
+      
+    
+    </summary>
+    
+      <category term="fuck" scheme="http://yoursite.com/categories/fuck/"/>
+    
+    
+      <category term="c语言" scheme="http://yoursite.com/tags/c%E8%AF%AD%E8%A8%80/"/>
+    
+      <category term="调试" scheme="http://yoursite.com/tags/%E8%B0%83%E8%AF%95/"/>
+    
+      <category term="GDB" scheme="http://yoursite.com/tags/GDB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>StackHarbor的2017尾记</title>
+    <link href="http://yoursite.com/2018/01/05/StackHarbor%E7%9A%842017%E5%B0%BE%E8%AE%B0/"/>
+    <id>http://yoursite.com/2018/01/05/StackHarbor的2017尾记/</id>
+    <published>2018-01-05T13:26:58.000Z</published>
+    <updated>2018-01-05T13:29:50.682Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;回到住处，掀出电脑，拉开在超市买的一听可口可乐的拉环，还有一个半小时，现在该写2017年的年终总结了。时间刚刚好。&lt;/p&gt;
+&lt;p&gt;一直拖一直拖，拖到最后却发现把想说的都丢在了路上。&lt;/p&gt;
+&lt;p&gt;想起来才发现好久以来都是“你也牵过手，是左手牵右手”，无所谓，没人看的。&lt;/p
+        
+      
+    
+    </summary>
+    
+      <category term="code" scheme="http://yoursite.com/categories/code/"/>
+    
+    
+      <category term="nginx" scheme="http://yoursite.com/tags/nginx/"/>
+    
+      <category term="tomcat" scheme="http://yoursite.com/tags/tomcat/"/>
+    
+      <category term="life" scheme="http://yoursite.com/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2017/12/31/hello-world/"/>
+    <id>http://yoursite.com/2017/12/31/hello-world/</id>
+    <published>2017-12-31T11:09:53.870Z</published>
+    <updated>2017-12-31T11:09:53.870Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
