@@ -18,8 +18,8 @@
   
   <entry>
     <title>here is a markdown test!</title>
-    <link href="http://yoursite.com/2018/01/here-is-a-markdown-test/"/>
-    <id>http://yoursite.com/2018/01/here-is-a-markdown-test/</id>
+    <link href="http://yoursite.com/here-is-a-markdown-test/"/>
+    <id>http://yoursite.com/here-is-a-markdown-test/</id>
     <published>2018-01-08T06:50:19.000Z</published>
     <updated>2018-01-08T07:00:20.767Z</updated>
     
@@ -43,8 +43,8 @@
   
   <entry>
     <title>使用GDB进行简单的C语言程序调试</title>
-    <link href="http://yoursite.com/2018/01/%E4%BD%BF%E7%94%A8GDB%E8%BF%9B%E8%A1%8C%E7%AE%80%E5%8D%95%E7%9A%84C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%B0%83%E8%AF%95/"/>
-    <id>http://yoursite.com/2018/01/使用GDB进行简单的C语言程序调试/</id>
+    <link href="http://yoursite.com/%E4%BD%BF%E7%94%A8GDB%E8%BF%9B%E8%A1%8C%E7%AE%80%E5%8D%95%E7%9A%84C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%B0%83%E8%AF%95/"/>
+    <id>http://yoursite.com/使用GDB进行简单的C语言程序调试/</id>
     <published>2018-01-05T13:31:11.000Z</published>
     <updated>2018-01-05T13:32:53.442Z</updated>
     
@@ -74,8 +74,8 @@
   
   <entry>
     <title>StackHarbor的2017尾记</title>
-    <link href="http://yoursite.com/2018/01/StackHarbor%E7%9A%842017%E5%B0%BE%E8%AE%B0/"/>
-    <id>http://yoursite.com/2018/01/StackHarbor的2017尾记/</id>
+    <link href="http://yoursite.com/StackHarbor%E7%9A%842017%E5%B0%BE%E8%AE%B0/"/>
+    <id>http://yoursite.com/StackHarbor的2017尾记/</id>
     <published>2018-01-05T13:26:58.000Z</published>
     <updated>2018-01-05T13:29:50.682Z</updated>
     
@@ -106,8 +106,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/12/hello-world/"/>
-    <id>http://yoursite.com/2017/12/hello-world/</id>
+    <link href="http://yoursite.com/hello-world/"/>
+    <id>http://yoursite.com/hello-world/</id>
     <published>2017-12-31T11:09:53.870Z</published>
     <updated>2017-12-31T11:09:53.870Z</updated>
     

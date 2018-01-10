@@ -125,7 +125,7 @@
 
 
 
-  <title>Categories | TrustedKindleReviews</title>
+  <title>使用GDB进行简单的C语言程序调试 | TrustedKindleReviews</title>
   
 
 
@@ -308,33 +308,223 @@
 
   <div id="posts" class="posts-expand">
     
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/使用GDB进行简单的C语言程序调试/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Oliver">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="TrustedKindleReviews">
+    </span>
+
     
-    
-    <div class="post-block page">
       <header class="post-header">
 
-	<h2 class="post-title" itemprop="name headline">Categories</h2>
-
-
-
-</header>
-
-      
-      
-      
-      <div class="post-body">
         
         
+          <h2 class="post-title" itemprop="name headline">使用GDB进行简单的C语言程序调试</h2>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-01-05T21:31:11+08:00">2018-01-05</time>
+            
+
+            
+
+            
+          </span>
+
           
-        
-      </div>
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">In</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/fuck/" itemprop="url" rel="index">
+                    <span itemprop="name">fuck</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/使用GDB进行简单的C语言程序调试/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count disqus-comment-count"
+                        data-disqus-identifier="使用GDB进行简单的C语言程序调试/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+             <span id="/使用GDB进行简单的C语言程序调试/" class="leancloud_visitors" data-flag-title="使用GDB进行简单的C语言程序调试">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">Visitors&#58;</span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
       
       
+
+      
+        <p>事实证明有时候无聊的东西反而变成了一篇博文，谁叫恶趣味的C语言作业非要求用word写实验报告，本猹宁可先写成Markdown再复制粘贴过去。</p>
+<p>首先按照惯例应该介绍下GDB，搭配GCC使用的调试器，也是众多使用GCC为编译器的IDE的默认调试器（大概？），虽然无聊的实验报告模板还很搞笑的写了一个部分叫XXX调试器和VC6.0的比较（看戏的内心：我看过两年学生出生时间比VC6还晚的时候这些课还怎么拿VC6讲）。</p>
+<p>所以掌握GDB的使用还是很有必要的，毕竟掌握某个使用GDB的IDE终究只是掌握了一个图形壳子，原理估计还是要深入一层到直接用GDB（强行接入正经模式）。</p>
+<p>这里只是按照实验报告的要求写一下断点调试和单步执行的用法（PS：Word实在是太难用了，字号缩进和标题序号就没有按照我想要的方式工作过。</p>
+
       
     </div>
     
     
     
+
+    
+
+    
+
+    
+      <div>
+        <ul class="post-copyright">
+  <li class="post-copyright-author">
+    <strong>Post author:</strong>
+    Oliver
+  </li>
+  <li class="post-copyright-link">
+    <strong>Post link:</strong>
+    <a href="http://yoursite.com/使用GDB进行简单的C语言程序调试/" title="使用GDB进行简单的C语言程序调试" rel="external nofollow">http://yoursite.com/使用GDB进行简单的C语言程序调试/</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>Copyright Notice: </strong>
+    All articles in this blog are licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" rel="external nofollow" target="_blank">CC BY-NC-ND 4.0</a> unless stating additionally.
+  </li>
+</ul>
+
+      </div>
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/c语言/" rel="tag"># c语言</a>
+          
+            <a href="/tags/调试/" rel="tag"># 调试</a>
+          
+            <a href="/tags/GDB/" rel="tag"># GDB</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/StackHarbor的2017尾记/" rel="next" title="StackHarbor的2017尾记">
+                <i class="fa fa-chevron-left"></i> StackHarbor的2017尾记
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/here-is-a-markdown-test/" rel="prev" title="here is a markdown test!">
+                here is a markdown test! <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_inline_share_toolbox">
+  <script type = "text/javascript" src = "//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a520e0fe00ff0f4" async = "async" ></script>
+</div>
+
+      
+    </div>
   </div>
 
 
@@ -604,9 +794,9 @@
     
       <script type="text/javascript">
         var disqus_config = function () {
-          this.page.url = 'http://yoursite.com/categories/index (copy 1).html';
-          this.page.identifier = 'categories/index (copy 1).html';
-          this.page.title = 'Categories';
+          this.page.url = 'http://yoursite.com/使用GDB进行简单的C语言程序调试/';
+          this.page.identifier = '使用GDB进行简单的C语言程序调试/';
+          this.page.title = '使用GDB进行简单的C语言程序调试';
         };
         var d = document, s = d.createElement('script');
         s.src = 'https://amazon-kindle-guide.disqus.com/embed.js';
